@@ -1,4 +1,5 @@
 - Money: https://github.com/mckaz/RubyMoney
 - BusinessTime: https://github.com/mckaz/bussiness_time_verify
 - Unitwise: https://github.com/mckaz/unitwise_verify
-
+- Geokit: https://github.com/mckaz/geokit_verify
+- Boxroom: https://github.com/mckaz/boxroom-verify
