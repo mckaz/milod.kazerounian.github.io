@@ -3,3 +3,4 @@
 - Unitwise: https://github.com/mckaz/unitwise_verify
 - Geokit: https://github.com/mckaz/geokit_verify
 - Boxroom: https://github.com/mckaz/boxroom-verify
+- Matrix: https://github.com/Bourg/matrix-verify
